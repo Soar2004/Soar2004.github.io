@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapics.com/css2?family=Canveat&display=swap');
+h1 {
+    text-align: center;
+    font-family: 'Canveat', cursive;
+    font-size: 40px;
+}
+p {
+    font-family: 'Canveat', cursive;
+}
+strong {
+    color: brown;
+}
+a:hover{
+    text-decoration: none;
+    color: red;
+}
+.wrap {
+    text-align: center;
+  }
+  
+  .main .pics img {
+    width: 300px;
+    height: auto;
+    margin: 20px 0;
+  }
+  
+  .btns img {
+    cursor: pointer;
+    margin: 0 5px;
+    border: 2px solid transparent;
+  }
+  
+  .btns img:hover {
+    border: 2px solid #333;
+  }
+  
